@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Akashkumar201/Akashkumar201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 💫 I’m currently pursuing 3 years of B.Tech From Trident Academy of Technology Bhubaneswar
 - 🎯 I’m looking for the right opportunity to maintain the perseverance
