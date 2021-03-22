@@ -17,6 +17,7 @@
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashkumar201&theme=blue-green&show_icons=true)
 
 
+![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=Akashkumar201&theme=dracula)
 ---
 
 <p align="center">
