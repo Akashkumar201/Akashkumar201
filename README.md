@@ -11,13 +11,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akashkumar201" alt="Akash Kumar" /> </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashkumar201&hide=jupyter%20notebook,objective-c&layout=compact&theme=material-palenight)](https://github.com/Akashkumar201/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashkumar201&hide=jupyter%20notebook,objective-c&layout=compact&theme=buefy)](https://github.com/Akashkumar201/github-readme-stats)
 
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashkumar201&theme=material-palenight&show_icons=true)
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashkumar201&theme=buefy&show_icons=true)
 
 
-![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=Akashkumar201&theme=dracula)
+![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=Akashkumar201&theme=buefy)
 ---
 
 <p align="center">
