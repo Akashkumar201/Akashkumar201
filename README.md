@@ -5,7 +5,7 @@
 - 💫 I’m currently pursuing 3 years of B.Tech From Trident Academy of Technology Bhubaneswar
 - 🎯 I’m looking for the right opportunity to maintain the perseverance
 - 🕸️ I’m looking at problems so that we will together convert them into an idea.
-- 🖥️ Hackathons and Design Thinking Are not only my favourite but i love these 
+- 🖥️ Hackathons and Design Thinking Are not only my favourite field of study but i love to bloggind and anchoring!  
 - 😊 Running 3 startups and winner of 10+ college and national level hackathons 🚀
 - 💬 Ask me about Django and Flutter Design thinking 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akashkumar201" alt="Akash Kumar" /> </p>
